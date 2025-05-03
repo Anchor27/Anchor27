@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-## 🌐 Socials:
+# 🌐 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan--joshi/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.joshi.cs@gmail.com) 
 
-## ✨ My Work
+# ✨ My Work
 
 I’ve written **three in-depth blogs** showcasing my work, design thinking, and technical approach.  
 Check them out on my portfolio website:
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.aryan.com](https://sites.google.com/view/aryan-joshi/))
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/aryan-joshi/)
+
 
 <!-- TESTING -->
 <h2>📚 Featured Blog Posts</h2>
