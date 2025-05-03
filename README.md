@@ -38,25 +38,33 @@ Check them out on my portfolio website:
 
 <!-- TESTING -->
 
-<p align="center">
-  <a href="https://www.aryan.com/blog/design-process">
-    <img src="https://github.com/Anchor27/Projects-Data-Repo/blob/main/AUTOGEN%20LOGO%20LARGE.png" width="200"/>
-    <br/>
-    <sub>🧠 ISRO</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.aryan.com/blog/problem-solving">
-    <img src="https://github.com/Anchor27/Projects-Data-Repo/blob/main/AUTOGEN%20LOGO%20LARGE.png" width="200"/>
-    <br/>
-    <sub>⚙️ DRDO</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.aryan.com/blog/frontend-tools">
-    <img src="https://raw.githubusercontent.com/Anchor27/Projects-Data-Repo/refs/heads/main/iit-bhu.png" width="200"/>
-    <br/>
-    <sub>🚀 IIT BHU</sub>
-  </a>
-</p>
+<h2>📚 Featured Blog Posts</h2>
+
+## 📚 Featured Blog Posts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.aryan.com/blog/design-process">
+        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="200" alt="Blog 1"/><br/>
+        <sub>🧠 Designing My Portfolio from Scratch</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.aryan.com/blog/problem-solving">
+        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="200" alt="Blog 2"/><br/>
+        <sub>⚙️ Solving Real-World Problems with Code</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.aryan.com/blog/frontend-tools">
+        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="200" alt="Blog 3"/><br/>
+        <sub>🚀 Scaling Frontend Projects with Modern Tools</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
