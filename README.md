@@ -27,6 +27,8 @@ Check them out on my portfolio website:
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.aryan.com](https://sites.google.com/view/aryan-joshi/))
 
+[![Aryan Portfolio Preview](https://github.com/Anchor27/Projects-Data-Repo/blob/main/AUTOGEN%20LOGO%20LARGE.png)]([https://www.aryan.com](https://sites.google.com/view/aryan-joshi/))
+
 ### 📚 Featured Blogs:
 - 🧠 [How I Designed My Portfolio from Scratch](https://www.aryan.com/blog/design-process)
 - ⚙️ [Solving Real-World Problems with Code](https://www.aryan.com/blog/problem-solving)
