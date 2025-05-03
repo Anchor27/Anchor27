@@ -42,28 +42,31 @@ Check them out on my portfolio website:
 
 ## 📚 Featured Blog Posts
 
-<table>
+<h2>📚 Featured Blog Posts</h2>
+
+<table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.aryan.com/blog/design-process">
-        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="200" alt="Blog 1"/><br/>
+        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="80%" alt="Blog 1"/><br/>
         <sub>🧠 Designing My Portfolio from Scratch</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.aryan.com/blog/problem-solving">
-        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="200" alt="Blog 2"/><br/>
+        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="80%" alt="Blog 2"/><br/>
         <sub>⚙️ Solving Real-World Problems with Code</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://www.aryan.com/blog/frontend-tools">
-        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="200" alt="Blog 3"/><br/>
+        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="80%" alt="Blog 3"/><br/>
         <sub>🚀 Scaling Frontend Projects with Modern Tools</sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
