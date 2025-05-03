@@ -5,7 +5,7 @@
 
 # Hey! I am Aryan <br> Welcome to my world 🗺️
 
-I'm a techophile with hands-on experience in building impactful software—from AI-powered search engines to satellite calibration systems.
+I'm a techophile with hands-on experience in building impactful software—from AI-powered search engines to satellite calibration systems to high-accuracy Machine Learning models!
 
 ---
 
