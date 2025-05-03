@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 I’ve written **three in-depth blogs** showcasing my work, design thinking, and technical approach.  
 Check them out on my portfolio website:
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](sites.google.com/view/aryan-joshi/)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/aryan-joshi/)
+
 
 
 
