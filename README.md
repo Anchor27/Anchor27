@@ -36,46 +36,30 @@ Check them out on my portfolio website:
 
 
 <!-- TESTING -->
-
 <h2>📚 Featured Blog Posts</h2>
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-
-  <!-- Blog 1 -->
-  <div style="text-align: center; width: 30%; border-radius: 10px; padding: 20px; background-color: #f0f0f0; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <a href="https://www.aryan.com/blog/design-process" style="display: block;">
-      <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="100%" alt="Blog 1" style="border-radius: 10px;"/>
-      <br/>
-      <sub style="font-size: 14px; color: #333;">🧠 Designing My Portfolio from Scratch</sub>
-    </a>
-  </div>
-
-  <!-- Blog 2 -->
-  <div style="text-align: center; width: 30%; border-radius: 10px; padding: 20px; background-color: #f0f0f0; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <a href="https://www.aryan.com/blog/problem-solving" style="display: block;">
-      <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="100%" alt="Blog 2" style="border-radius: 10px;"/>
-      <br/>
-      <sub style="font-size: 14px; color: #333;">⚙️ Solving Real-World Problems with Code</sub>
-    </a>
-  </div>
-
-  <!-- Blog 3 -->
-  <div style="text-align: center; width: 30%; border-radius: 10px; padding: 20px; background-color: #f0f0f0; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <a href="https://www.aryan.com/blog/frontend-tools" style="display: block;">
-      <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="100%" alt="Blog 3" style="border-radius: 10px;"/>
-      <br/>
-      <sub style="font-size: 14px; color: #333;">🚀 Scaling Frontend Projects with Modern Tools</sub>
-    </a>
-  </div>
-
-</div>
-
-<style>
-  div:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
-  }
-</style>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="33%" style="border: none;">
+      <a href="https://www.aryan.com/blog/design-process">
+        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="80%" alt="Blog 1"/><br/>
+        <sub>🧠 Designing My Portfolio from Scratch</sub>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <a href="https://www.aryan.com/blog/problem-solving">
+        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="80%" alt="Blog 2"/><br/>
+        <sub>⚙️ Solving Real-World Problems with Code</sub>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <a href="https://www.aryan.com/blog/frontend-tools">
+        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="80%" alt="Blog 3"/><br/>
+        <sub>🚀 Scaling Frontend Projects with Modern Tools</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
