@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan--joshi/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.joshi.cs@gmail.com) 
 
-<section id="contact">
-  <h2>Contact Me</h2>
-  <p>If you'd like to reach out, click the badge below:</p>
-  <a href="mailto:aryan.joshi.cs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-</section>
+## 🌐 Explore My Portfolio
+
+I’ve written **three in-depth blogs** showcasing my work, design thinking, and technical approach.  
+Check them out on my portfolio website:
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](sites.google.com/view/aryan-joshi/)
+
 
 
 # 💻 Tech Stack:
