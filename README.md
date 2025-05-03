@@ -7,14 +7,7 @@
 
 I'm a techophile with hands-on experience in building impactful software—from AI-powered search engines to satellite calibration systems.
 
-## 🔭 **Recent Works**
-- 🛰️ Built calibration software at **ISRO** for satellite inter-comparison (GSICS), automating 5TB data processing with 83% faster performance.
-- 🔍 Developed an AI-powered search engine (**AutoGen Search**) at **DRDO**, integrating GPT-3.5 for smart search summaries and Elasticsearch for lightning-fast autocomplete.
-- 🌐 Created NLP tools for **low-resource Indian languages**, achieving 99.61% accuracy in language identification and 78.18% accuracy in POS tagging.
-
-
 ---
-
 
 ## 📫 Let's connect!
 Feel free to explore my repositories and reach out if you're working on something exciting!
@@ -24,22 +17,15 @@ Feel free to explore my repositories and reach out if you're working on somethin
 
 ---
 
-## ✨ My Work
-
-I’ve written **three in-depth blogs** showcasing my work, design thinking, and technical approach.  
-Check them out on my portfolio website:
-
-[![View Website](https://img.shields.io/badge/View%20Portfolio-0d47a1?style=for-the-badge&logo=web&logoColor=white)](https://sites.google.com/view/aryan-joshi/)
+## 🔭 **Recent Works**
+- 🛰️ Built calibration software at **ISRO** for satellite inter-comparison (GSICS), automating 5TB data processing with 83% faster performance.
+- 🔍 Developed an AI-powered search engine (**AutoGen Search**) at **DRDO**, integrating GPT-3.5 for smart search summaries and Elasticsearch for lightning-fast autocomplete.
+- 🌐 Created NLP tools for **low-resource Indian languages**, achieving 99.61% accuracy in language identification and 78.18% accuracy in POS tagging.
 
 
-### 📌 **Featured Projects:**
+---
 
-- 🎯 [AutoGen Search](https://github.com/Anchor27/AutoGen-Search) — AI-powered search engine with real-time autocomplete  
-- 🌐 [NLP for Indian Languages](https://github.com/Anchor27/POS_Tagging_of_Low_Resource_Indian_Languages) — Language ID & POS Tagging models  
-- 🎨 [Virtual Painter](https://github.com/Anchor27/Virtual-Painter) — Draw in the air using OpenCV and real-time video processing
-
-<!-- TESTING -->
-<h2>📚 Featured Blogs</h2>
+## 🧑‍💻 My Internships
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -65,6 +51,23 @@ Check them out on my portfolio website:
 </table>
 
 ---
+
+## ✨ My Work
+
+I’ve written **three in-depth blogs** showcasing my work, design thinking, and technical approach.  
+Check them out on my portfolio website:
+
+[![View Website](https://img.shields.io/badge/View%20Portfolio-0d47a1?style=for-the-badge&logo=web&logoColor=white)](https://sites.google.com/view/aryan-joshi/)
+
+
+### 📌 **Featured Projects:**
+
+- 🎯 [AutoGen Search](https://github.com/Anchor27/AutoGen-Search) — AI-powered search engine with real-time autocomplete  
+- 🌐 [NLP for Indian Languages](https://github.com/Anchor27/POS_Tagging_of_Low_Resource_Indian_Languages) — Language ID & POS Tagging models  
+- 🎨 [Virtual Painter](https://github.com/Anchor27/Virtual-Painter) — Draw in the air using OpenCV and real-time video processing
+
+---
+
 
 # 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
