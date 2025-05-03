@@ -4,22 +4,27 @@
 **Anchor27/Anchor27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # Hey! I am Aryan <br> Welcome to my world 🗺️
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+I'm a techophile with hands-on experience in building impactful software—from AI-powered search engines to satellite calibration systems.
+
+## 🔭 **Recent Works**
+- 🛰️ Built calibration software at **ISRO** for satellite inter-comparison (GSICS), automating 5TB data processing with 83% faster performance.
+- 🔍 Developed an AI-powered search engine (**AutoGen Search**) at **DRDO**, integrating GPT-3.5 for smart search summaries and Elasticsearch for lightning-fast autocomplete.
+- 🌐 Created NLP tools for **low-resource Indian languages**, achieving 99.61% accuracy in language identification and 78.18% accuracy in POS tagging.
 
 
+---
 
-# 🌐 Connect With Me!
+
+## 📫 Let's connect!
+Feel free to explore my repositories and reach out if you're working on something exciting!
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/aryan--joshi/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=)](mailto:aryan.joshi.cs@gmail.com)
 
-# ✨ My Work
+---
+
+## ✨ My Work
 
 I’ve written **three in-depth blogs** showcasing my work, design thinking, and technical approach.  
 Check them out on my portfolio website:
@@ -27,9 +32,14 @@ Check them out on my portfolio website:
 [![View Website](https://img.shields.io/badge/View%20Portfolio-0d47a1?style=for-the-badge&logo=web&logoColor=white)](https://sites.google.com/view/aryan-joshi/)
 
 
+### 📌 **Featured Projects:**
+
+- 🎯 [AutoGen Search](https://github.com/Anchor27/AutoGen-Search) — AI-powered search engine with real-time autocomplete  
+- 🌐 [NLP for Indian Languages](https://github.com/Anchor27/POS_Tagging_of_Low_Resource_Indian_Languages) — Language ID & POS Tagging models  
+- 🎨 [Virtual Painter](https://github.com/Anchor27/Virtual-Painter) — Draw in the air using OpenCV and real-time video processing
 
 <!-- TESTING -->
-<h2>📚 Featured Blog Posts</h2>
+<h2>📚 Featured Blogs</h2>
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -54,7 +64,7 @@ Check them out on my portfolio website:
   </tr>
 </table>
 
-
+---
 
 # 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -72,18 +82,23 @@ Check them out on my portfolio website:
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
  
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchor27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anchor27&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anchor27&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
