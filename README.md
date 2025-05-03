@@ -34,6 +34,31 @@ Check them out on my portfolio website:
 - ⚙️ [Solving Real-World Problems with Code](https://www.aryan.com/blog/problem-solving)
 - 🚀 [Scaling Frontend Projects with Modern Tools](https://www.aryan.com/blog/frontend-tools)
 
+<h2>📚 Featured Blog Posts</h2>
+
+<!-- TESTING -->
+
+<p align="center">
+  <a href="https://www.aryan.com/blog/design-process">
+    <img src="https://github.com/Anchor27/Projects-Data-Repo/blob/main/AUTOGEN%20LOGO%20LARGE.png" width="200"/>
+    <br/>
+    <sub>🧠 ISRO</sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.aryan.com/blog/problem-solving">
+    <img src="https://github.com/Anchor27/Projects-Data-Repo/blob/main/AUTOGEN%20LOGO%20LARGE.png" width="200"/>
+    <br/>
+    <sub>⚙️ DRDO</sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.aryan.com/blog/frontend-tools">
+    <img src="https://raw.githubusercontent.com/Anchor27/Projects-Data-Repo/refs/heads/main/iit-bhu.png" width="200"/>
+    <br/>
+    <sub>🚀 IIT BHU</sub>
+  </a>
+</p>
+
+
 
 
 
