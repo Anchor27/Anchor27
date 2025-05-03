@@ -25,7 +25,13 @@ Here are some ideas to get you started:
 I’ve written **three in-depth blogs** showcasing my work, design thinking, and technical approach.  
 Check them out on my portfolio website:
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/aryan-joshi/)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.aryan.com](https://sites.google.com/view/aryan-joshi/))
+
+### 📚 Featured Blogs:
+- 🧠 [How I Designed My Portfolio from Scratch](https://www.aryan.com/blog/design-process)
+- ⚙️ [Solving Real-World Problems with Code](https://www.aryan.com/blog/problem-solving)
+- 🚀 [Scaling Frontend Projects with Modern Tools](https://www.aryan.com/blog/frontend-tools)
+
 
 
 
