@@ -20,20 +20,12 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan--joshi/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.joshi.cs@gmail.com) 
 
-## 🌐 Explore My Portfolio
+## ✨ My Work
 
 I’ve written **three in-depth blogs** showcasing my work, design thinking, and technical approach.  
 Check them out on my portfolio website:
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.aryan.com](https://sites.google.com/view/aryan-joshi/))
-
-[![Aryan Portfolio Preview](https://github.com/Anchor27/Projects-Data-Repo/blob/main/AUTOGEN%20LOGO%20LARGE.png)]([https://www.aryan.com](https://sites.google.com/view/aryan-joshi/))
-
-### 📚 Featured Blogs:
-- 🧠 [How I Designed My Portfolio from Scratch](https://www.aryan.com/blog/design-process)
-- ⚙️ [Solving Real-World Problems with Code](https://www.aryan.com/blog/problem-solving)
-- 🚀 [Scaling Frontend Projects with Modern Tools](https://www.aryan.com/blog/frontend-tools)
-
 
 <!-- TESTING -->
 <h2>📚 Featured Blog Posts</h2>
@@ -41,26 +33,25 @@ Check them out on my portfolio website:
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td align="center" width="33%" style="border: none;">
-      <a href="https://www.aryan.com/blog/design-process">
-        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="80%" alt="Blog 1"/><br/>
-        <sub>🧠 Designing My Portfolio from Scratch</sub>
+      <a href="https://sites.google.com/view/aryan-joshi/isro">
+        <img src="https://raw.githubusercontent.com/Anchor27/Projects-Data-Repo/refs/heads/main/isro_banner.png" width="80%" alt="Blog 1"/><br/>
+        <div style="font-size: 1.2em; font-weight: bold;"><b>ISRO</b></div>
       </a>
     </td>
     <td align="center" width="33%" style="border: none;">
-      <a href="https://www.aryan.com/blog/problem-solving">
-        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="80%" alt="Blog 2"/><br/>
-        <sub>⚙️ Solving Real-World Problems with Code</sub>
+      <a href="https://sites.google.com/view/aryan-joshi/drdo">
+        <img src="https://raw.githubusercontent.com/Anchor27/Projects-Data-Repo/refs/heads/main/drdo_banner.png" width="80%" alt="Blog 2"/><br/>
+        <div style="font-size: 1.2em; font-weight: bold;"><b>DRDO</b></div>
       </a>
     </td>
     <td align="center" width="33%" style="border: none;">
-      <a href="https://www.aryan.com/blog/frontend-tools">
-        <img src="https://github.com/Anchor27/Projects-Data-Repo/raw/main/AUTOGEN%20LOGO%20LARGE.png" width="80%" alt="Blog 3"/><br/>
-        <sub>🚀 Scaling Frontend Projects with Modern Tools</sub>
+      <a href="https://sites.google.com/view/aryan-joshi/iit-bhu">
+        <img src="https://raw.githubusercontent.com/Anchor27/Projects-Data-Repo/refs/heads/main/iit_banner.png" width="80%" alt="Blog 3"/><br/>
+        <div style="font-size: 1.2em; font-weight: bold;"><b>IIT BHU</b></div>
       </a>
     </td>
   </tr>
 </table>
-
 
 
 
