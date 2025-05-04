@@ -37,7 +37,7 @@ Feel free to explore my repositories and reach out if you're working on somethin
     </td>
     <td align="center" width="33%" style="border: none;">
       <a href="https://sites.google.com/view/aryan-joshi/drdo">
-        <img src="https://raw.githubusercontent.com/Anchor27/Projects-Data-Repo/refs/heads/main/drdo_banner.png" width="80%" alt="Blog 2"/><br/>
+        <img src="https://raw.githubusercontent.com/Anchor27/Projects-Data-Repo/refs/heads/main/drdo_banner2.png" width="80%" alt="Blog 2"/><br/>
         <div style="font-size: 1.2em; font-weight: bold;"><b>DRDO</b></div>
       </a>
     </td>
