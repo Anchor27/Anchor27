@@ -20,7 +20,7 @@ Feel free to explore my repositories and reach out if you're working on somethin
 ## 🔭 **Recent Works**
 - 🛰️ Built calibration software at **ISRO** for satellite inter-calibration (GSICS), automating 5TB data processing with 83% faster performance.
 - 🔍 Developed an AI-powered search engine (**AutoGen Search**) at **DRDO**, integrating GPT-3.5 for smart search summaries and Elasticsearch for lightning-fast autocomplete.
-- 🌐 Created NLP tools for **low-resource Indian languages**, achieving 99.61% accuracy in language identification and 78.18% accuracy in POS tagging.
+- 🌐 Created NLP tools for low-resource Indian languages at **IIT BHU**, achieving 99.61% accuracy in language identification and 78.18% accuracy in POS tagging.
 
 
 ---
