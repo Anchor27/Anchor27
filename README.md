@@ -10,7 +10,7 @@ I'm a techophile with hands-on experience in building impactful software—from 
 ---
 
 ## 📫 Let's connect!
-Feel free to explore my repositories and reach out if you're working on something exciting!
+Feel free to explore my repositories and reach out if you're working on something exciting, or jus wanna chat!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/aryan--joshi/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=)](mailto:aryan.joshi.cs@gmail.com)
